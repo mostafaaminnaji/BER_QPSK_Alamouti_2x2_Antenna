@@ -2,6 +2,8 @@
 BER of QPSK Alamouti STBC with two transmit and receive (2x2) antenna for Wifi  802.11n  standard
 
 A simple Space Time Code, suggested by Mr. Siavash M Alamouti in his landmark October 1998 paper – A Simple Transmit Diversity Technique for Wireless Communication, Published in: IEEE Journal on Selected Areas in Communications ( Volume: 16, Issue: 8, Oct 1998 ), offers a simple method for achieving spatial diversity with two transmit antennas.
+For more informtion:
+http://ieeexplore.ieee.org/document/730453/
 
 
 Simulation BER of QPSK Alamouti STBC with two transmit and receive antenna
