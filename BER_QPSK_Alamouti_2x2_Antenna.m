@@ -3,10 +3,7 @@
 %All of This Code was Written by Mostafa Amin-Naji  2017/08/01
 % Symorder of simoulation is for 'bin' and 'gray';
 % For contact me: Mostafa.Amin.Naji@gmail.com
-% My other Website:
-% 1) https://sites.google.com/site/mostafaaminnaji/
-% 2) https://scholar.google.com/citations?user=z1gxuKcAAAAJ&hl=en
-% 3) https://www.linkedin.com/in/mostafaaminnaji/
+% My Website: Amin-Naji.com
 
 
 clc
